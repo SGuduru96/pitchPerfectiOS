@@ -1,8 +1,5 @@
 # Pitch Perfect Writeup
 
-## What it looks like:
-<img src="https://github.com/SGuduru96/pitchPerfectiOS/blob/master/readme_assets/pitchPerfect_recording.2019-08-15%2015_15_08.gif" width="400" />
-
 ## What I learned:
 - Stack Views
 - Autolayout
@@ -12,3 +9,7 @@ This was the first iOS app required as part of the Udacity iOS Nanodegree. Overa
 
 ## What I plan to do next:
 I plan on simplifying the recording screen by getting rid of the stop button. Instead the record button will change into a stop button once pressed. Additionally, I plan on allowing the record button to be held to record. Through implementing this feature, I will learn more about UIGestureRecognizer.
+
+## What it looks like:
+<img src="https://github.com/SGuduru96/pitchPerfectiOS/blob/master/readme_assets/pitchPerfect_recording.2019-08-15%2015_15_08.gif" width="400" />
+
