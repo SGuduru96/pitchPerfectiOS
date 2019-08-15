@@ -1,5 +1,8 @@
 # Pitch Perfect Writeup
 
+## What it looks like:
+<img src="https://github.com/SGuduru96/pitchPerfectiOS/blob/master/readme_assets/pitchPerfect_recording.2019-08-15%2015_15_08.gif" width="40" />
+
 ## What I learned:
 - Stack Views
 - Autolayout
